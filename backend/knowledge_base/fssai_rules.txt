@@ -1,0 +1,62 @@
+# FSSAI License Rules and Regulations
+
+## Overview
+The Food Safety and Standards Authority of India (FSSAI) is responsible for protecting and promoting public health through the regulation and supervision of food safety. All food businesses in India are required to obtain an FSSAI license or registration based on their scale of operations.
+
+## Types of FSSAI Licenses
+
+1. **Basic Registration**: For small food businesses with annual turnover up to Rs. 12 lakhs
+2. **State License**: For medium-sized food businesses with annual turnover between Rs. 12 lakhs and Rs. 20 crores
+3. **Central License**: For large food businesses with annual turnover exceeding Rs. 20 crores
+
+## Required Documents
+
+### Common Documents for All License Types
+- Form B application form
+- Business registration document (Partnership deed, Certificate of Incorporation, etc.)
+- Photo ID proof of the applicant
+- Address proof of the business premises
+- List of food products manufactured/processed/sold
+- Blueprint/layout plan of the processing unit
+- NOC from the local municipality or panchayat
+- Water analysis report (for manufacturing units)
+
+### Additional Documents for State and Central License
+- Food Safety Management System plan
+- Medical fitness certificates of food handlers
+- List of machinery and equipment
+- Source of raw material
+- Recall plan (for manufacturers)
+
+## Application Fees
+- Basic Registration: Rs. 100
+- State License: Rs. 2,000 to Rs. 5,000 (depending on turnover)
+- Central License: Rs. 7,500
+
+## Renewal Process
+- FSSAI licenses need to be renewed before their expiry
+- Basic Registration: Valid for 5 years
+- State and Central License: Valid for 1-5 years (as per application)
+- Renewal application should be submitted at least 30 days before expiry
+
+## Compliance Requirements
+- Display of FSSAI license number at the business premises
+- Adherence to hygiene and sanitary requirements
+- Regular medical check-up of food handlers
+- Maintenance of records of production, processing, and distribution
+- Implementation of food safety management systems
+- Regular testing of food products
+
+## Penalties for Non-Compliance
+- Operating without license: Up to Rs. 5 lakhs
+- Substandard food: Up to Rs. 5 lakhs
+- Misbranded food: Up to Rs. 3 lakhs
+- Misleading advertisement: Up to Rs. 10 lakhs
+- Food containing extraneous matter: Up to Rs. 1 lakh
+
+## Contact Information
+Food Safety and Standards Authority of India
+FDA Bhawan, Kotla Road, New Delhi - 110002
+Toll-Free Number: 1800 112 100
+Email: contact@fssai.gov.in
+Website: www.fssai.gov.in
