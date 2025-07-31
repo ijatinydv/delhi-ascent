@@ -104,7 +104,6 @@ const applicationSchema = new Schema({
   },
   trackingId: {
     type: String,
-    unique: true
   }
 }, {
   timestamps: true
